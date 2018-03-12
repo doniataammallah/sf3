@@ -1,0 +1,8 @@
+stts:
+    resource: "@STTSBundle/Controller/"
+    type:     annotation
+    prefix:   /bo
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
